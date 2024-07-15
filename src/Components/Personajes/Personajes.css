@@ -1,0 +1,11 @@
+.rotated {
+    transform: rotate(180deg);
+  }
+  
+  img {
+    transition: all 0.8s;
+  }
+  
+  .Galeria img:hover {
+    filter: grayscale(100%);
+  }
